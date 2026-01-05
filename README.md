@@ -1,6 +1,5 @@
 slot-machine
 
-
 🎮 How to Play
 Start the game: Run python slotMachine.py
 Deposit money: Enter your starting balance
